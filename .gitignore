@@ -1,0 +1,19 @@
+# 构建产物
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# CubeMX 临时
+mx.scratch
+
+# VSCode 个人配置（launch.json 等，不随仓库走）
+.vscode/
+
+# Claude Code 本地配置
+.claude/
+
+# 保留 STM32CubeIDE 配置
+!.settings/
