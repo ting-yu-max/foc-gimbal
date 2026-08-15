@@ -167,7 +167,7 @@ cmake --build build/Debug --target flash
 
 ---
 
-## 🐛 调试踩坑记录（）
+## 🐛 调试踩坑记录
 
 完整记录见 [项目进度.md](项目进度.md)，摘录关键几例：
 
